@@ -2,7 +2,8 @@ package Demogame;
 
 import javax.swing.JFrame;
 
-public class Mian {
+public class Mian 
+{
 
 	public static void main(String[] args)
 	{
